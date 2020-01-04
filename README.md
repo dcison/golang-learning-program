@@ -22,3 +22,5 @@
 ## Demo
 
 * fibon.go 斐波那契demo 主要学习递归的用法
+* quicksort.go 快排的实现
+* twosum.go leetcode 出名的两数问题实现
