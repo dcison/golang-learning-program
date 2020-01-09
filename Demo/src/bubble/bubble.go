@@ -1,7 +1,7 @@
 /*
  * @Author: dcison
  * @Date: 2020-01-06 20:21:09
- * @LastEditTime : 2020-01-06 20:56:17
+ * @LastEditTime : 2020-01-07 10:19:04
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /golang-learning-program/Demo/src/bubble.go
@@ -16,10 +16,9 @@ import (
 
 func bubble(arr []int, order string) []int {
 	length := len(arr)
-	if length < 1 {
+	if length <= 1 {
 		return arr
 	}
-
 	for i := 0; i < length-1; i++ {
 		for j := length - 1; j > i; j-- {
 			if order == "asc" && arr[j] < arr[j-1] {
