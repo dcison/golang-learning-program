@@ -1,7 +1,7 @@
 <!--
  * @Author: dcison
  * @Date: 2020-01-04 16:02:22
- * @LastEditTime : 2020-01-07 10:46:55
+ * @LastEditTime : 2020-01-09 19:05:33
  * @Description: Readme
  * @FilePath: /golang-learning-program/README.md
  -->
@@ -26,3 +26,5 @@
 * twosum leetcode 出名的两数问题实现
 * server 开启服务的demo
 * buble 冒泡demo
+* reducer 实现一个类JS的Reducer的demo
+* 
