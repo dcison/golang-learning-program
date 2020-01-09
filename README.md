@@ -1,7 +1,7 @@
 <!--
  * @Author: dcison
  * @Date: 2020-01-04 16:02:22
- * @LastEditTime : 2020-01-09 19:05:33
+ * @LastEditTime : 2020-01-09 21:01:06
  * @Description: Readme
  * @FilePath: /golang-learning-program/README.md
  -->
@@ -17,8 +17,6 @@
 * [实战应用](https://github.com/llitfkitfk/go-best-practice)
 * [底层原理](http://c.biancheng.net/view/5721.html)clear
 
-## 笔记
-
 ## Demo
 
 * fibon 斐波那契demo 主要学习递归的用法
@@ -27,4 +25,4 @@
 * server 开启服务的demo
 * buble 冒泡demo
 * reducer 实现一个类JS的Reducer的demo
-* 
+* reducer 还有一个包引用的demo (使用go mod)
