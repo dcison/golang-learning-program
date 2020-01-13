@@ -1,8 +1,8 @@
 /*
  * @Author: your name
  * @Date: 2020-01-09 18:46:23
- * @LastEditTime : 2020-01-09 20:59:59
- * @LastEditors  : Please set LastEditors
+ * @LastEditTime : 2020-01-13 20:13:39
+ * @LastEditors  : zhangmingpan001
  * @Description: In User Settings Edit
  * @FilePath: /golang-learning-program/Demo/src/reducer/reducer.go
  */
@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"reducer/genarr"
+	"gopratice/demo/src/genarr"
 )
 
 func reducer(cb func(int, int) int, arr []int) int {
